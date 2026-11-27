@@ -5,10 +5,13 @@ I enjoy investigating network traffic, testing access controls, and fixing secur
 
 ## Projects I've worked on
 
-- **OWASP NodeGoat · Application Security** — I updated the login flow to regenerate session IDs and used bcrypt to hash passwords at signup. I also compared Semgrep results before and after remediation.
-- **CipherNest CTF · Digital Forensics & Networking** — I built stages 4 and 5 of our six-stage team project. One challenge focused on recovering deleted evidence, and the other used Wireshark to analyse an FTP capture.
-- **Banking Network Security · Cisco Packet Tracer** — I configured extended access control lists to restrict guest and branch access to a simulated payment-partner network. I tested guest connectivity before and after applying the rules to verify the restriction.
-- **Mushroom Data Analysis · Machine Learning** — I worked on dimensionality reduction using Principal Component Analysis (PCA) for our team's project on the UCI Secondary Mushroom Dataset.
+- **[OWASP NodeGoat](https://github.com/prabhawathi-b/ie3142-devsecops-nodegoat) · Application Security** — For our team project, I updated the login flow to regenerate session IDs and used bcrypt to hash passwords at signup.
+
+- **[Banking Network Security](https://sajeebarath.github.io/portfolio/#projects) · Cisco Packet Tracer** — I configured extended access control lists to restrict guest and branch access to a simulated payment-partner network. I verified the guest restriction with before-and-after connectivity tests.
+
+- **[CipherNest CTF](https://github.com/prabhawathi-b/CipherNest_CTFbox) · Digital Forensics & Networking** — I built stages 4 and 5 of our six-stage team challenge, covering deleted evidence recovery and FTP traffic analysis with Wireshark.
+
+- **[Mushroom Data Analysis](https://github.com/IT24103888/2025-Y2-S1-MLB-B1G1-09) · AI & Machine Learning** — My contribution to our team project was dimensionality reduction using Principal Component Analysis (PCA) on the UCI Secondary Mushroom Dataset.
 
 ## Tools I work with
 
